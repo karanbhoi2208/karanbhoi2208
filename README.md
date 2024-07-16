@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Karan Bhoi
 - 👀 I’m interested in Angular and Spring Boot
-- 🌱 I’m currently learning Spring Boot
 
 
 <!---
