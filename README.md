@@ -3,7 +3,8 @@
 ## About Me
 I'm a passionate software developer specializing in Angular and Spring Boot. I am currently pursuing a Master of Computer Applications (MCA) at Parul University. With a strong foundation in web development, I am enthusiastic about creating scalable and efficient applications.
 
-![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtzcmw3Nmh2MGFrajM1dnIyaTMzbmJyN3JveWczYnpkeHAwNW56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+## BuyFurn Product Detail Page Demo
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtzcmw3Nmh2MGFrajM1dnIyaTMzbmJyN3JveWczYnpkeHAwNW56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="BuyFurn Demo" width="600" height="400">
 
 ## Interests
 - 🌟 Frontend Development with Angular
