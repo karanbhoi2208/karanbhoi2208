@@ -3,6 +3,8 @@
 ## About Me
 I'm a passionate software developer specializing in Angular and Spring Boot. I am currently pursuing a Master of Computer Applications (MCA) at Parul University. With a strong foundation in web development, I am enthusiastic about creating scalable and efficient applications.
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 ## Interests
 - 🌟 Frontend Development with Angular
 - 🚀 Backend Development with Spring Boot
